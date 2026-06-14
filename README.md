@@ -10,7 +10,7 @@ The projects focus on REST API development, database integration, layered archit
 ### 1. Banking Application
 
 * Account creation and management
-* Deposit and withdrawal operations
+* Deposit and withdrawal operations 
 * Balance handling using REST APIs
 
 
