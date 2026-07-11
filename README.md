@@ -16,7 +16,7 @@ The projects focus on REST API development, database integration, layered archit
 
 
 ## Technologies Used
-
+ 
 * Java
 * Spring Boot
 * Spring MVC
