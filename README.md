@@ -11,7 +11,7 @@ The projects focus on REST API development, database integration, layered archit
 
 * Account creation and management
 * Deposit and withdrawal operations 
-* Balance handling using REST APIs
+* Balance handling using REST APIs 
 
 
 
